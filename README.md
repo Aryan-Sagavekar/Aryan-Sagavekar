@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Sagavekar</h1>
 <h3 align="center">Self Taught programmer</h3>
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 My skills-  **C++, Python, Java, Android** and i have a rough idea of **HTML, CSS, Javascript**
 
 - 📫 How to reach me **sagavekararyan@gmail.com**
 
