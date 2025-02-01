@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Sagavekar</h1>
 <h3 align="center">Self Taught programmer</h3>
 
-- 🌱 My skills-  **C++, Python, Java, Android, HTML, CSS, Javascript, OpenCV, Flutter, Dart**
+- 🌱 My skills-  **C++, Python, Java, Android, HTML, CSS, Javascript, OpenCV, Flutter, Dart, Unreal Engine, Unity, C#**
 
 - 📫 How to reach me **sagavekararyan@gmail.com**
 
